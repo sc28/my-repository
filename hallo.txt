@@ -1,1 +1,2 @@
 Hello, world2!
+Hi I was changed in master
